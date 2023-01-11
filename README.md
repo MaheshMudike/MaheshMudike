@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheshMudike
-- 👀 I’m interested in ... Full Stack Development | Software Engineer
-- 🌱 I’m currently learning ... Mobile | Android Development
+- 👀 I’m interested in ... Full Stack Development | Software Engineer | Mode Js | Java | Angular | React | Typescript
+- 🌱 I’m currently learning ... Mobile | Android Development | DevOps Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 'maheshmudike8531@gmail.com | mahesh-mudike-459a45129 (LinkedIn) | https://hashnode.com/@maheshmudike8531
 
